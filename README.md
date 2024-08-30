@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [[github.com/cataladev](https://github.com/cataladev?tab=repositories)]
 
-- 📄 Know about my experiences [catala.dev](catala.dev)
+- 📄 Know about my experiences [catala.dev](https://catala.dev)
 
 - ⚡ Fun fact **I'm based in Orlando!**
 
