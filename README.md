@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Computer Science Student @ UCF</h3>
 
-- 🔭 I’m currently working on [Hack Friends](https://github.com/cataladev/hackfriends)
+- 🔭 I’m currently working on: [Hack Friends](https://github.com/cataladev/hackfriends)
 
-- 🌱 I’m currently learning **Rust, and NoSQL**
+- 🌱 I’m currently learning: **Rust, and NoSQL**
 
-- 👨‍💻 All of my projects are available at [[github.com/cataladev](https://github.com/cataladev?tab=repositories)]
+- 👨‍💻 All of my projects are available at: [[github.com/cataladev](https://github.com/cataladev?tab=repositories)]
 
-- 📄 Know about my experiences [catala.dev](https://catala.dev)
+- 📄 Know about my experiences: [catala.dev](https://catala.dev)
 
-- ⚡ Fun fact **I'm based in Orlando!**
+- ⚡ Fun fact: **I'm based in Orlando!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
