@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Computer Science Student @ UCF</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cataladev&label=Profile%20views&color=0e75b6&style=flat" alt="cataladev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cataladev" alt="cataladev" /></a> </p>
 
 - 🔭 I’m currently working on [Hack Friends](https://github.com/cataladev/hackfriends)
