@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, and NoSQL**
 
-- 👨‍💻 All of my projects are available at [github.com/cataladev](github.com/cataladev)
+- 👨‍💻 All of my projects are available at [[github.com/cataladev](github.com/cataladev)](https://github.com/cataladev?tab=repositories)
 
 - 📄 Know about my experiences [catala.dev](catala.dev)
 
