@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Computer Science Student @ UCF</h3>
 
-- 🔭 I’m currently working on: [Hack Friends](https://github.com/cataladev/hackfriends)
+- 🔭 I’m currently working on: [Hacker Mather](https://github.com/cataladev/hackermatcher)
 
 - 🌱 I’m currently learning: **Rust, and NoSQL**
 
