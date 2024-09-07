@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Computer Science Student @ UCF</h3>
 
-- 🔭 I’m currently working on: [Hacker Mather](https://github.com/cataladev/hackermatcher)
+- 🔭 I’m currently working on: [Yik Yak Clone](https://github.com/cataladev/yikyakclone2)
 
-- 🌱 I’m currently learning: **Rust, and NoSQL**
+- 🌱 I’m currently learning: **The T3 Stack**
 
-- 👨‍💻 All of my projects are available at: [[github.com/cataladev](https://github.com/cataladev?tab=repositories)]
+- 👨‍💻 All of my projects are available at: [[HERE!](https://github.com/cataladev?tab=repositories)]
 
 - 📄 Know about my experiences: [catala.dev](https://catala.dev)
 
