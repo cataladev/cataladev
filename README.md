@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Computer Science Student @ UCF</h3>
 
-- 🔭 I’m currently working on: [Cleaning up my ShellHacks Submission post hacakthon](https://github.com/cataladev/yikyakclone2)
+- 🔭 I’m currently working on: [Cleaning up my ShellHacks Submission post hacakthon](https://github.com/cataladev/hacktracker)
 
 - 🌱 I’m currently learning: **The T3 Stack**
 
