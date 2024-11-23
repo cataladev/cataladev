@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Computer Science Student @ UCF</h3>
+<h3 align="center">First Year Computer Science Student @ UCF</h3>
 💫About Me:
 <br>I’m currently working on a hub that computer science students will be able to access, as an all in one suite.<br>I'm currently learning full stack web development.<br>
 
