@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Computer Science Student @ UCF</h3>
 
-- 🔭 I’m currently working on: [Personal Portfolio](https://github.com/cataladev/portfoliov2
+- 🔭 I’m currently working on: [Personal Portfolio](https://github.com/cataladev/portfoliov2)
 
 - 🌱 I’m currently learning: **The T3 Stack**
 
