@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Computer Science Student @ UCF</h3>
-# 💫 About Me:
- My name is Carlos, and I am an 18 year old developer pursuing a Bachelor's Degree in Computer Science at the University of Central Florida!<br>I’m currently working on a hub that computer science students will be able to access, as an all in one suite.<br>I'm currently learning full stack web development.<br>
+💫About Me:
+<br>I’m currently working on a hub that computer science students will be able to access, as an all in one suite.<br>I'm currently learning full stack web development.<br>
 
 
 ## 🌐 Socials:
