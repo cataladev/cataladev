@@ -7,7 +7,7 @@ I’m a computer science student at the University of Central Florida and an org
 A huge part of my life as a student and software engineer has been hackathons! So far i've attended 7 and won 4! These honestly aren't just events to me anymore, i've grown to love the hackathon community and have learned so much because of them. :)
 <br>
 <br>
-Feel free to check out my projects! If you have a cool idea and wanna work together or get my input, just hit me up 😺
+Feel free to check out my projects! If you have a cool idea and wanna work together or get my input, just hit me up!!!! 😺
 
 
 ## What I’ve Been Working On
