@@ -18,7 +18,7 @@ Feel free to check out my projects! If you have a cool idea and wanna work toget
 
 ## Connect With Me
 
-I’m always down to talk about honestly anythin, hit me up anytime!
+I’m always down to talk about honestly anything, hit me up anytime!
 <img src="https://stickershop.line-scdn.net/stickershop/v1/product/23701012/LINEStorePC/main.png?v=1" height="100" align="right" />
 <p align="left">
   
