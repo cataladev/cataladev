@@ -31,8 +31,3 @@ I’m always down to talk about honestly anything, hit me up anytime!
 
 Outside of code, I’m into music, art (although i'm not the best at it (more specifically i mean i like making cool clay creatures)), tea, and hosting cool tech events with friends. 
 <br/>
-
-# Stats:
-| Streak | Top Contributed Repos |
-|--------|---------------------|
-| <img src="https://nirzak-streak-stats.vercel.app/?user=cataladev&theme=dark&hide_border=true" /> | <img src="https://github-contributor-stats.vercel.app/api?username=cataladev&limit=5&theme=dark&combine_all_yearly_contributions=true" /> |
