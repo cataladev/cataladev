@@ -31,3 +31,5 @@ I’m always down to talk about honestly anything, hit me up anytime!
 
 Outside of code, I’m into music, art (although i'm not the best at it (more specifically i mean i like making cool clay creatures)), tea, and hosting cool tech events with friends. 
 <br/>
+
+ssh catala.dev
