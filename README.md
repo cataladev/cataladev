@@ -12,9 +12,7 @@ Feel free to check out my projects! If you have a cool idea and wanna work toget
 
 ## What I’ve Been Working On
 
-[**RICO-32**](https://github.com/RICO-32/RICO-32) - An open source Rust and Lua fantasy console that lets you build and run cartridge-style games with ease.
-
-[**Knight Hacks Forge**](https://github.com/KnightHacks/forge) - The open source monorepo that powers all the infrastructure behind our 1,000+ attendee hackathon and year-round events.
+secret stuff.. :D
 
 ## Connect With Me
 
