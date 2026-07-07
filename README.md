@@ -31,3 +31,6 @@ Outside of code, I’m into music, art (although i'm not the best at it (more sp
 <br/>
 
 ssh catala.dev
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=cataladev&style=flat&color=000000&label=views" />
+</p>
